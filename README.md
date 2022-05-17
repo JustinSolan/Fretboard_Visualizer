@@ -1,0 +1,1 @@
+This website is a fretboard visualizer that helps guitarists study/remember the notes on the fretboard. 
